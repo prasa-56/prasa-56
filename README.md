@@ -2,11 +2,9 @@
 
 ### Technology Lead | Linux & DevOps Engineer
 
-I’m a Technology Lead with *8+ years of experience* in Linux administration,
-cloud infrastructure, production support, automation, monitoring, and DevOps.
+I’m a Technology Lead with **8+ years of experience** across Linux administration, cloud infrastructure, production support, monitoring, automation, and DevOps.
 
-I currently work at *Infosys*, supporting enterprise production environments
-and working on infrastructure and application deployment activities.
+I currently work at **Infosys**, supporting enterprise production environments and infrastructure/application deployment activities.
 
 ---
 
@@ -20,55 +18,29 @@ and working on infrastructure and application deployment activities.
 - 📈 Monitoring & Observability
 - 🐚 Bash / Shell Scripting
 - 🐍 Python fundamentals
-- 📦 Docker & container fundamentals
+- 📦 Docker fundamentals
 - ☸️ Kubernetes & Rancher
 - 🤖 Ansible & Infrastructure Automation
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Technical Skills
-
-### Operating Systems
-RHEL SUSE CentOS Ubuntu Windows Server
-
-### Cloud
-AWS EC2 S3 IAM VPC CloudWatch EBS AMI Load Balancer
-
-### DevOps & Automation
-Ansible Ansible Tower BigFix TeamCity
-Adobe Cloud Manager Docker
-
-### Monitoring
-Dynatrace New Relic
-
-### Scripting
-Bash Shell Scripting Python
-
-### Infrastructure
-DNS DHCP TCP/IP NFS Samba AutoFS
-SSH FTP VMware
-
-### Databases
-MariaDB MySQL
-
-### Tools
-JIRA ServiceNow Rally Men & Mice
-
----
+`Linux` `RHEL` `SUSE` `Ubuntu` `AWS` `Ansible` `BigFix` `Docker` `Kubernetes` `Terraform` `Bash` `Python` `Dynatrace` `New Relic` `DNS` `NFS` `MySQL` `MariaDB`
 
 ## 💼 Professional Experience
 
-### Infosys
-*Technology Lead*  
-March 2022 – Present
+### Infosys — Technology Lead
+**March 2022 – Present**
 
-Working across enterprise infrastructure and production environments,
-with responsibilities including Linux administration, patching,
-automation, monitoring, deployment support, troubleshooting and
-change management.
+- Linux administration and troubleshooting
+- Kernel and vulnerability patching
+- Production support and incident resolution
+- Infrastructure and application deployment support
+- Automation using Ansible, BigFix and shell scripting
+- Monitoring and observability
+- DNS/DDI and networking support
+- Change and release management
 
-### Bank of America Project
-*Production Service Specialist*
+### Bank of America Project — Production Service Specialist
 
 - PAAV / CAAS deployment activities
 - Production support and troubleshooting
@@ -76,46 +48,27 @@ change management.
 - Shell scripting and automation
 - SNMP / Rsync monitoring and alerts
 - SSH key remediation
-- Change and release management
 - Server maintenance and deployment activities
+- Change management and Jira-based work tracking
 
----
+## 🌐 Portfolio
 
-## 📂 Featured Project
-
-### Personal Portfolio
-
-🌐 *[prasanthgeeta.in](https://prasanthgeeta.in)*
-
-My personal portfolio showcasing my professional experience,
-technical skills and projects.
-
----
+**[Visit my Portfolio](https://prasanthgeeta.in)**
 
 ## 🎓 Education
 
-*B.Tech – Computer Science & Engineering*  
-Jawaharlal Nehru Technological University  
-2015
-
----
+**B.Tech – Computer Science & Engineering**  
+Avanthi Institute of Engineering and Technology — **2015**
 
 ## 📫 Connect With Me
 
-🌐 Portfolio: https://prasanthgeeta.in
+- 🌐 Portfolio: https://prasanthgeeta.in
+- 💼 LinkedIn: https://www.linkedin.com/in/prasanth-g-baab7579
+- 📧 Email: geetaprasanth89@gmail.com
 
-💼 LinkedIn:[G. Prasanth](https://www.linkedin.com/in/prasanth-g-baab7579)
+## ⚡ Currently Learning
 
-📧 Email: geetaprasanth89@gmail.com
-
----
-
-### ⚡ Always Learning
-
-Currently expanding my skills across:
-
-AWS DevOps Kubernetes Docker Terraform
-Python Monitoring Automation
+`AWS` `DevOps` `Kubernetes` `Docker` `Terraform` `Python` `Automation` `Monitoring`
 
 ---
 
