@@ -95,7 +95,7 @@ technical skills and projects.
 ## 🎓 Education
 
 *B.Tech – Computer Science & Engineering*  
-Avanthi Institute of Engineering and Technology  
+Jawaharlal Nehru Technological University  
 2015
 
 ---
