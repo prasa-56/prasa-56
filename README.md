@@ -58,7 +58,7 @@ I currently work at **Infosys**, supporting enterprise production environments a
 ## 🎓 Education
 
 **B.Tech – Computer Science & Engineering**  
-Avanthi Institute of Engineering and Technology — **2015**
+Jawaharlal Nehru Technology University — **2015**
 
 ## 📫 Connect With Me
 
